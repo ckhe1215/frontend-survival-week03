@@ -1,0 +1,17 @@
+.paddingInline {
+  padding-inline: 2rem;
+}
+
+.paddingRight {
+  padding-right: 1rem;
+}
+
+.buttonList {
+  display: flex;
+  padding: 0px;
+  list-style: none;
+}
+
+.buttonList li {
+  margin-right: 1rem;
+}
